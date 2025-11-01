@@ -91,7 +91,7 @@ export function CustomNavbar() {
                         <Image
                             width={1024}
                             height={1024}
-                            src={"/logo2.webp"}
+                            src={"/logo.webp"}
                             quality={100}
                             alt="Evan Home Care Logo"
                             className=" h-20 w-20 object-contain"

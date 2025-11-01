@@ -15,7 +15,7 @@ export default function Homemaker() {
                             <Image
                                 width={260}
                                 height={260}
-                                src="/logo2.webp"
+                                src="/logo.webp"
                                 alt="Evan Home Care Logo"
                                 className="h-48 w-48 object-contain sm:h-48 sm:w-48"
                             />

@@ -67,31 +67,12 @@ export function Footer() {
                                     </span>
                                 </div>
                             </div>
-
-                            <div className="mt-10 flex flex-col gap-10 lg:mt-5 lg:flex-row lg:items-center lg:justify-center lg:gap-5">
-                                <div className="flex items-center gap-2 lg:justify-center">
-                                    <MdOutlineBadge className="h-6 w-6 text-primary" />
-                                    <span className="text-primary ">
-                                        <a>Provider Medicaid ID: 113497700</a>
-                                    </span>
-                                </div>
-
-                                <div className="flex items-center gap-2 lg:justify-center">
-                                    <MdOutlineBadge className="h-6 w-6 text-primary" />
-                                    <span className="text-primary ">
-                                        <a>
-                                            Homemaker Companion License #239355
-                                        </a>
-                                    </span>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
 
                 <p className="text-center font-bold text-white">
-                    © {new Date().getFullYear()} Homemaker Companion. All
-                    Rights Reserved.
+                    © {new Date().getFullYear()}. All Rights Reserved.
                 </p>
             </div>
         </div>
